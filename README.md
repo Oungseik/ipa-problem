@@ -42,4 +42,3 @@ This is the output, which is failed to install.
 
 ![](./images/failed_ipa_install.png)
 
-# ipa-problem
